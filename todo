@@ -1,0 +1,24 @@
+Liste des features :
+#Font ROBOTO
+Un titre avec nom, prénom et date de réalisation
+Un composant permettant de gérer une barre de progression, attention la couleur doit varier en fonction du pourcentage d’avancement
+Les progress barres doivent être affichées dynamiquement à l’aide d’un tableau ou de toutes autres méthodes. ( Il ne doit pas y avoir 2 Progress bar en dur dans le code )
+La première progress barre doit démarrer à 50% quand la page se lance
+La deuxième progess barre doit démarrer à 25% quand la page se lance
+L’affichage de deux barres de progression
+Des boutons permettant de manipuler les deux barres de progression en même temps
+
+Feature supplémentaires si tu termines plus vite :
+
+Pouvoir ajouter ou supprimer les barres de progression
+Pouvoir modifier indépendamment l’avancement des barres de progression
+
+
+
+Evaluation :
+La qualité d’intégration HTML / CSS ( ressemblance avec la maquette )
+Le découpage en composant pour la barre de progression
+Le bon fonctionnement des boutons
+Le bon fonctionnement des changements de couleurs
+Le respect des bonnes pratiques de nominations des classes, variables, fonctions etc..
+La lisibilité du code
